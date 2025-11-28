@@ -127,7 +127,6 @@
     <ClInclude Include="Networking.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Example.cpp" />
     <ClCompile Include="Networking.cpp" />
     <ClCompile Include="NetworkingExample.cpp" />
   </ItemGroup>
